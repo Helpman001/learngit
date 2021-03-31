@@ -1,2 +1,2 @@
 write once
-
+write twice
