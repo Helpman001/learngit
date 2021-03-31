@@ -1,4 +1,9 @@
 write once
 write twice
 write three times
+<<<<<<< HEAD
 write from master
+=======
+write from the branch of feature
+>>>>>>> feature
+write from master again
