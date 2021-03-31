@@ -8,3 +8,4 @@ write from the branch of feature
 >>>>>>> feature
 write from master again
 write from master twice
+write from dev once
